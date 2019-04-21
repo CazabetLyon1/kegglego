@@ -9,6 +9,7 @@ Lien compétition : https://www.kaggle.com/c/google-ai-open-images-object-detect
 Il s'agit-là de la compétition principale auquel nous avons participé.
 *Voici un exemple de résultat obtenu avec notre algorithme :*
 ![resultat](https://image.noelshack.com/fichiers/2019/16/7/1555856346-resultat.png)
+
 Pour cette compétition nous proposons 2 versions.
 ## Train
 Lien kernel : https://www.kaggle.com/lefuret/train-ai-open-images-object-detection-track

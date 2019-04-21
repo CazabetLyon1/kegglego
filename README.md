@@ -7,7 +7,7 @@ C'était plus dans le but de se familiariser au langage / différentes librairie
 # AI Open Images
 Lien compétition : https://www.kaggle.com/c/google-ai-open-images-object-detection-track
 Il s'agit-là de la compétition principale auquel nous avons participé.
-*Voilà un exemple de résultat obtenu :*
+*Voici un exemple de résultat obtenu avec notre algorithme :*
 ![resultat](https://image.noelshack.com/fichiers/2019/16/7/1555856346-resultat.png)
 Pour cette compétition nous proposons 2 versions.
 ## Train
